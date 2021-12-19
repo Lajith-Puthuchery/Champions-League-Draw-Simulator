@@ -1,0 +1,17 @@
+Team,Abbreviation,Group Winner,Group Name,Country
+Manchester City,MCI,TRUE,A,England
+Manchester United,MUN,TRUE,F,England
+Liverpool,LIV,TRUE,B,England
+Bayern Munich ,BAY,TRUE,E,Germany
+Real Madrid,RMA,TRUE,D,Spain
+LOSC Lille,LIL,TRUE,G,France
+Ajax,AJA,TRUE,C,Netherlands
+Juventus,JUV,TRUE,H,Italy
+Paris Saint Germain,PAR,FALSE,A,France
+Villareal,VIL,FALSE,F,Spain
+Atletico Madrid,ATL,FALSE,B,Spain
+Benfica,BEN,FALSE,E,Portugal
+Inter Milan,INT,FALSE,D,Italy
+RB Salzbrug,SAL,FALSE,G,Austria
+Sporting Lisbon,LIS,FALSE,C,Portugal
+Chelsea,CHE,FALSE,H,England
